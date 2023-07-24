@@ -1,0 +1,17 @@
+{
+  "name": "trickcoin",
+  "version": "1.0.0",
+  "description": "This is a mini crypto project to practice Solidity and retain react-native information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crypto",
+    "react-native",
+    "solidity",
+    "blockchain"
+  ],
+  "author": "Aditya Unnikrishnan",
+  "license": "ISC"
+}
